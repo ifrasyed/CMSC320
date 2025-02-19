@@ -1,8 +1,9 @@
 
 Q1: Why might we consider using Git?
 
-Answer: Git provides many features that make programming easier. It provides memory for code to be saved on. For example, in a case where you computer stops working, you will still have access to 
-your repository. Another neat feature that Git has is branching will allows for independent work that is easy to combine with other people's work. 
+Answer: Git provides many features that make programming easier. It provides memory for code to be saved on. 
+For example, in a case where you computer stops working, you will still have access to your repository. Another neat 
+feature that Git has is branching will allows for independent work that is easy to combine with other people's work. 
 
 Q2: What field could data science be applied to? Give an Example.
 
@@ -12,4 +13,12 @@ Any field that requires data to be stored in some manner is a field that data sc
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Both merge and rebase solve a similar issue; they both integrate changes from branches but in different ways. The difference between the two is that merging does not obstruct existing branches or change them in any way while rebasing creates new commits for each commit in the original branch. 
+Answer: Both merge and rebase solve a similar issue; they both integrate changes from branches but in different ways. 
+The difference between the two is that merging does not obstruct existing branches or change them in any way while 
+rebasing creates new commits for each commit in the original branch. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to working with my friends in this class. It will be a great experience to work on the projects 
+together. I am also excited to be learning about how to work with data and new languages this semeser that I haven't learned
+in my other CS classes before. 
