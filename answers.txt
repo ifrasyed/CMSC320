@@ -10,3 +10,6 @@ Answer: Data science can be applied to a variety of fields because of its abilit
 with diverse types of data. It can be applied to healthcare, technology, finance, and muchmore. 
 Any field that requires data to be stored in some manner is a field that data science can be applied to. 
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Both merge and rebase solve a similar issue; they both integrate changes from branches but in different ways. The difference between the two is that merging does not obstruct existing branches or change them in any way while rebasing creates new commits for each commit in the original branch. 
