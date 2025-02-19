@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Git provides many features that make programming easier. It provides memory for code to be saved on. For example, in a case where you computer stops working, you will still have access to 
+your repository. Another neat feature that Git has is branching will allows for independent work
+that is easy to combine with other people's work. 
